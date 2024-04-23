@@ -10,7 +10,7 @@ def cnh(ida):
         print(' Você pode assistir aulas teoricas, mas não pode realizar as aulas práticas!')
 
     else:
-        print('Você não tem idade suficiente para tirar a carteir   a')
+        print('Você não tem idade suficiente para tirar a carteir a CNH')
     
 idade = int(input('Digite sua idade: '))
 cnh(idade)
