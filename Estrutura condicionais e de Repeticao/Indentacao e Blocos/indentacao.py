@@ -1,3 +1,4 @@
+#resumo sobre identação
 def sacar(valor):
     saldo = 200
     if saldo >= valor:
